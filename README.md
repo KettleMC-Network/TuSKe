@@ -1,6 +1,8 @@
 
 # TuSKe - Skript Addon
 
+This fork is based on the Minehut Patch, which is based on the Pikachu Patch of TuSKe.
+
 ## Useful links
 
 * [Beta releases page](http://github.com/Tuke-Nuke/TuSKe/releases)
